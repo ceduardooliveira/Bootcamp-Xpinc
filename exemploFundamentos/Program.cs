@@ -1,4 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Teste");
-Console.WriteLine("Testando branch");
+﻿using exemploFundamentos.Models;
+
+Pessoa pessoa1 = new Pessoa();
+
+pessoa1.Nome = "Eduardo";
+pessoa1.Idade = 30;
+pessoa1.Apresentar();
