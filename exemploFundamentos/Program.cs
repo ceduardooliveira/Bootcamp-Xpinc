@@ -1,12 +1,18 @@
 ﻿using exemploFundamentos.Models;
 
-int a = 10;
-int b = 10;
-int c = a + b;
+// Cast - Casting
+//int a = Convert.ToInt32("5");
 
-c = c + 5;
+int a = int.Parse("5");
+Console.WriteLine(a);
 
-Console.WriteLine(c);
+// int a = 10;
+// int b = 10;
+// int c = a + b;
+
+// c = c + 5;
+
+// Console.WriteLine(c);
 
 // DateTime dataAtual = DateTime.Now;
 // Console.WriteLine(dataAtual);
