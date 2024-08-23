@@ -1,8 +1,15 @@
 ﻿using exemploFundamentos.Models;
 
+int a = 10;
+int b = 10;
+int c = a + b;
 
-DateTime dataAtual = DateTime.Now;
-Console.WriteLine(dataAtual);
+c = c + 5;
+
+Console.WriteLine(c);
+
+// DateTime dataAtual = DateTime.Now;
+// Console.WriteLine(dataAtual);
 
 
 
