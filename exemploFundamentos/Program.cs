@@ -1,12 +1,137 @@
 ﻿using exemploFundamentos.Models;
 
-string a = "15-";
-int b = 0;
+bool choveu = false;
+bool estaTarde = false;
 
-int.TryParse(a, out b);
+if(!choveu && !estaTarde){
+    Console.WriteLine("vou pedalar.");
+}
+else{
+    Console.WriteLine("vou pedalar um outro dia.");  
+}
 
-Console.WriteLine(b);
-Console.WriteLine("Conversão realizada com sucesso!");
+
+
+
+
+
+// bool possuiPresencaMinima = true;
+// double media = 8.5;
+
+// if(possuiPresencaMinima && media >= 7){
+//     Console.WriteLine("Aprovado");
+// }
+// else
+// {
+//     Console.WriteLine("Reprovado");
+// }
+
+
+
+
+
+
+// bool ehMaiorIdade = false;
+// bool possuiAutorizacaoDoResponsavel = true;
+
+// if(ehMaiorIdade || possuiAutorizacaoDoResponsavel){
+//     Console.WriteLine("Entrada liberada");
+
+// }
+// else{
+//     Console.WriteLine("Entrada nao liberada");
+// }
+
+
+
+
+
+
+
+
+
+
+// Console.WriteLine("Digite uma letra: ");
+// string letra = Console.ReadLine();
+
+// switch (letra)
+// {
+//     case "a":
+//     case "e":
+//     case "i":
+//     case "o":
+//     case "u":
+
+//         Console.WriteLine("Vogal");
+//         break;
+//     default:
+//         Console.WriteLine("Não é uma vogal.");
+//         break;
+
+// }
+
+
+// if(letra == "a" || 
+// letra == "e" ||
+// letra == "i" ||
+// letra == "o" ||
+// letra == "u")
+// {
+//     Console.WriteLine("Vogal");
+// }
+// else
+// {
+//     Console.WriteLine("Não é uma vogal");
+// }
+
+// if(letra == "a"){
+//     Console.WriteLine("Vogal");
+// }
+// else if (letra == "e"){
+//     Console.WriteLine("Vogal");
+// }
+// else if (letra == "i"){
+//     Console.WriteLine("Vogal");
+// }
+// else if (letra == "o"){
+//     Console.WriteLine("Vogal");
+// }
+// else if (letra == "u"){
+//     Console.WriteLine("Vogal");
+// }
+// else{
+//     Console.WriteLine("Não é uma vogal.");
+// }
+
+
+
+// int quantidadeEmEstoque = 3;
+// int quantidadeCompra = 0;
+
+// bool possivelVenda = quantidadeCompra > 0 && quantidadeEmEstoque >= quantidadeCompra;
+
+// Console.WriteLine($"Quantidade em estoque: {quantidadeEmEstoque}");
+// Console.WriteLine($"Quantidade em estoque: {quantidadeCompra}"); 
+// Console.WriteLine($"É possivel realizar a venda? {possivelVenda}");
+
+
+// if(quantidadeCompra == 0){
+//     Console.WriteLine("Venda Inválida");
+// }
+// else if(possivelVenda){
+//     Console.WriteLine("Venda realizada");
+// }
+// else{
+//     Console.WriteLine("Desculpa. Não temos a quantidade desejada em estoque.");
+// }
+
+// string a = "15-";
+// int b = 0;
+
+// int.TryParse(a, out b);
+
+// Console.WriteLine(b);
+// Console.WriteLine("Conversão realizada com sucesso!");
 
 
 // ordem de operadores 
