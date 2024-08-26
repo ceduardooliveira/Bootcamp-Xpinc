@@ -1,16 +1,20 @@
 ﻿using exemploFundamentos.Models;
 
 
-int quantidadeEmEstoque = 10;
-int quantidadeCompra = 4;
+int quantidadeEmEstoque = 3;
+int quantidadeCompra = 0;
 
-bool possivelVenda = quantidadeEmEstoque >= quantidadeCompra;
+bool possivelVenda = quantidadeCompra > 0 && quantidadeEmEstoque >= quantidadeCompra;
 
 Console.WriteLine($"Quantidade em estoque: {quantidadeEmEstoque}");
 Console.WriteLine($"Quantidade em estoque: {quantidadeCompra}"); 
 Console.WriteLine($"É possivel realizar a venda? {possivelVenda}");
 
-if(possivelVenda){
+
+if(quantidadeCompra == 0){
+    Console.WriteLine("Venda Inválida");
+}
+else if(possivelVenda){
     Console.WriteLine("Venda realizada");
 }
 else{
