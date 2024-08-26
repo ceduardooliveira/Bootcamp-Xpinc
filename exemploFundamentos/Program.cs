@@ -1,15 +1,32 @@
 ﻿using exemploFundamentos.Models;
 
-bool ehMaiorIdade = false;
-bool possuiAutorizacaoDoResponsavel = true;
 
-if(ehMaiorIdade || possuiAutorizacaoDoResponsavel){
-    Console.WriteLine("Entrada liberada");
+bool possuiPresencaMinima = true;
+double media = 8.5;
 
+if(possuiPresencaMinima && media >= 7){
+    Console.WriteLine("Aprovado");
 }
-else{
-    Console.WriteLine("Entrada nao liberada");
+else
+{
+    Console.WriteLine("Reprovado");
 }
+
+
+
+
+
+
+// bool ehMaiorIdade = false;
+// bool possuiAutorizacaoDoResponsavel = true;
+
+// if(ehMaiorIdade || possuiAutorizacaoDoResponsavel){
+//     Console.WriteLine("Entrada liberada");
+
+// }
+// else{
+//     Console.WriteLine("Entrada nao liberada");
+// }
 
 
 
