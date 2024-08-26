@@ -1,9 +1,17 @@
 ﻿using exemploFundamentos.Models;
 
+string a = "15-";
+int b = 0;
+
+int.TryParse(a, out b);
+
+Console.WriteLine(b);
+Console.WriteLine("Conversão realizada com sucesso!");
+
 
 // ordem de operadores 
-double a = 4 / (2 + 2);
-Console.WriteLine(a);
+// double a = 4 / (2 + 2);
+// Console.WriteLine(a);
 
 
 
