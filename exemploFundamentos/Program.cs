@@ -1,14 +1,56 @@
 ﻿using exemploFundamentos.Models;
 
-bool choveu = false;
-bool estaTarde = false;
 
-if(!choveu && !estaTarde){
-    Console.WriteLine("vou pedalar.");
-}
-else{
-    Console.WriteLine("vou pedalar um outro dia.");  
-}
+// int numeroIncremento = 10;
+
+// Console.WriteLine(numeroIncremento);
+
+// Console.WriteLine("Incrementando o 10");
+// //numero = numero + 1;
+// numeroIncremento ++;
+
+// Console.WriteLine(numeroIncremento);
+
+// Console.WriteLine("====================================");
+
+// int numeroDecremento = 10;
+// Console.WriteLine(numeroDecremento);
+
+// Console.WriteLine("Decrementando o 10");
+// numeroDecremento --;
+
+// Console.WriteLine(numeroDecremento);
+
+Calculadora calc = new Calculadora();
+
+
+calc.RaizQuadrada(25);
+
+// calc.Somar(10,30);
+// calc.Subtrair(50,10);
+// calc.Multiplicar(15,45);
+// calc.Dividir(2,2);
+
+//calc.Potencia(3,3);
+
+
+// calc.Seno(30);
+// calc.Coseno(30);
+// calc.Tangente(30);
+
+
+
+
+
+// bool choveu = false;
+// bool estaTarde = false;
+
+// if(!choveu && !estaTarde){
+//     Console.WriteLine("vou pedalar.");
+// }
+// else{
+//     Console.WriteLine("vou pedalar um outro dia.");  
+// }
 
 
 
