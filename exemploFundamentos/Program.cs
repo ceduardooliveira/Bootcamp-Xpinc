@@ -1,6 +1,30 @@
 ﻿using exemploFundamentos.Models;
 
-Calculadora calc = new Calculadora();
+
+int numeroIncremento = 10;
+
+Console.WriteLine(numeroIncremento);
+
+Console.WriteLine("Incrementando o 10");
+//numero = numero + 1;
+numeroIncremento ++;
+
+Console.WriteLine(numeroIncremento);
+
+Console.WriteLine("====================================");
+
+int numeroDecremento = 10;
+Console.WriteLine(numeroDecremento);
+
+Console.WriteLine("Decrementando o 10");
+numeroDecremento --;
+
+Console.WriteLine(numeroDecremento);
+
+// Calculadora calc = new Calculadora();
+
+
+
 
 // calc.Somar(10,30);
 // calc.Subtrair(50,10);
@@ -10,9 +34,9 @@ Calculadora calc = new Calculadora();
 //calc.Potencia(3,3);
 
 
-calc.Seno(30);
-calc.Coseno(30);
-calc.Tangente(30);
+// calc.Seno(30);
+// calc.Coseno(30);
+// calc.Tangente(30);
 
 
 
