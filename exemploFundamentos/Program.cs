@@ -1,5 +1,10 @@
 ﻿using exemploFundamentos.Models;
 
+int numero = 5;
+
+for(int contador = 0; contador <= 10; contador++){
+    Console.WriteLine($"{numero} x {contador} = {numero * contador}");
+}
 
 // int numeroIncremento = 10;
 
@@ -21,10 +26,10 @@
 
 // Console.WriteLine(numeroDecremento);
 
-Calculadora calc = new Calculadora();
+// Calculadora calc = new Calculadora();
 
 
-calc.RaizQuadrada(25);
+// calc.RaizQuadrada(25);
 
 // calc.Somar(10,30);
 // calc.Subtrair(50,10);
