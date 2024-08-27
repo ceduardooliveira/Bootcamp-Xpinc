@@ -1,30 +1,30 @@
 ﻿using exemploFundamentos.Models;
 
 
-int numeroIncremento = 10;
+// int numeroIncremento = 10;
 
-Console.WriteLine(numeroIncremento);
+// Console.WriteLine(numeroIncremento);
 
-Console.WriteLine("Incrementando o 10");
-//numero = numero + 1;
-numeroIncremento ++;
+// Console.WriteLine("Incrementando o 10");
+// //numero = numero + 1;
+// numeroIncremento ++;
 
-Console.WriteLine(numeroIncremento);
+// Console.WriteLine(numeroIncremento);
 
-Console.WriteLine("====================================");
+// Console.WriteLine("====================================");
 
-int numeroDecremento = 10;
-Console.WriteLine(numeroDecremento);
+// int numeroDecremento = 10;
+// Console.WriteLine(numeroDecremento);
 
-Console.WriteLine("Decrementando o 10");
-numeroDecremento --;
+// Console.WriteLine("Decrementando o 10");
+// numeroDecremento --;
 
-Console.WriteLine(numeroDecremento);
+// Console.WriteLine(numeroDecremento);
 
-// Calculadora calc = new Calculadora();
+Calculadora calc = new Calculadora();
 
 
-
+calc.RaizQuadrada(25);
 
 // calc.Somar(10,30);
 // calc.Subtrair(50,10);
