@@ -1,0 +1,12 @@
+C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos.Common\bin\Debug\net8.0\exemploFundamentos.Common.deps.json
+C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos.Common\bin\Debug\net8.0\exemploFundamentos.Common.dll
+C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos.Common\bin\Debug\net8.0\exemploFundamentos.Common.pdb
+C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos.Common\obj\Debug\net8.0\exemploFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos.Common\obj\Debug\net8.0\exemploFundamentos.Common.AssemblyInfoInputs.cache
+C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos.Common\obj\Debug\net8.0\exemploFundamentos.Common.AssemblyInfo.cs
+C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos.Common\obj\Debug\net8.0\exemploFundamentos.Common.csproj.CoreCompileInputs.cache
+C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos.Common\obj\Debug\net8.0\exemploFundamentos.Common.sourcelink.json
+C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos.Common\obj\Debug\net8.0\exemploFundamentos.Common.dll
+C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos.Common\obj\Debug\net8.0\refint\exemploFundamentos.Common.dll
+C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos.Common\obj\Debug\net8.0\exemploFundamentos.Common.pdb
+C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos.Common\obj\Debug\net8.0\ref\exemploFundamentos.Common.dll
