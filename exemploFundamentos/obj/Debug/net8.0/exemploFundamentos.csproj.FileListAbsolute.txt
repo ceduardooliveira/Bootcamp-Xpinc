@@ -1,44 +1,19 @@
-C:\Bootcamp\exemploFundamentos\bin\Debug\net8.0\exemploFundamentos.exe
-C:\Bootcamp\exemploFundamentos\bin\Debug\net8.0\exemploFundamentos.deps.json
-C:\Bootcamp\exemploFundamentos\bin\Debug\net8.0\exemploFundamentos.runtimeconfig.json
-C:\Bootcamp\exemploFundamentos\bin\Debug\net8.0\exemploFundamentos.dll
-C:\Bootcamp\exemploFundamentos\bin\Debug\net8.0\exemploFundamentos.pdb
-C:\Bootcamp\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
-C:\Bootcamp\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.AssemblyInfoInputs.cache
-C:\Bootcamp\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.AssemblyInfo.cs
-C:\Bootcamp\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.csproj.CoreCompileInputs.cache
-C:\Bootcamp\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.dll
-C:\Bootcamp\exemploFundamentos\obj\Debug\net8.0\refint\exemploFundamentos.dll
-C:\Bootcamp\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.pdb
-C:\Bootcamp\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.genruntimeconfig.cache
-C:\Bootcamp\exemploFundamentos\obj\Debug\net8.0\ref\exemploFundamentos.dll
 C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos\bin\Debug\net8.0\exemploFundamentos.exe
 C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos\bin\Debug\net8.0\exemploFundamentos.deps.json
 C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos\bin\Debug\net8.0\exemploFundamentos.runtimeconfig.json
 C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos\bin\Debug\net8.0\exemploFundamentos.dll
 C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos\bin\Debug\net8.0\exemploFundamentos.pdb
+C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos\bin\Debug\net8.0\exemploFundamentos.Common.dll
+C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos\bin\Debug\net8.0\exemploFundamentos.Common.pdb
+C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.csproj.AssemblyReference.cache
 C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.AssemblyInfoInputs.cache
 C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.AssemblyInfo.cs
 C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.csproj.CoreCompileInputs.cache
 C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.sourcelink.json
+C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos\obj\Debug\net8.0\exemploF.F0A4FAAC.Up2Date
 C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.dll
 C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos\obj\Debug\net8.0\refint\exemploFundamentos.dll
 C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.pdb
 C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.genruntimeconfig.cache
 C:\Users\cedua\OneDrive\Área de Trabalho\Bootcamp-Xpinc\exemploFundamentos\obj\Debug\net8.0\ref\exemploFundamentos.dll
-C:\Users\c-edu\Desktop\Bootcamp-Xpinc\exemploFundamentos\bin\Debug\net8.0\exemploFundamentos.exe
-C:\Users\c-edu\Desktop\Bootcamp-Xpinc\exemploFundamentos\bin\Debug\net8.0\exemploFundamentos.deps.json
-C:\Users\c-edu\Desktop\Bootcamp-Xpinc\exemploFundamentos\bin\Debug\net8.0\exemploFundamentos.runtimeconfig.json
-C:\Users\c-edu\Desktop\Bootcamp-Xpinc\exemploFundamentos\bin\Debug\net8.0\exemploFundamentos.dll
-C:\Users\c-edu\Desktop\Bootcamp-Xpinc\exemploFundamentos\bin\Debug\net8.0\exemploFundamentos.pdb
-C:\Users\c-edu\Desktop\Bootcamp-Xpinc\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\c-edu\Desktop\Bootcamp-Xpinc\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.AssemblyInfoInputs.cache
-C:\Users\c-edu\Desktop\Bootcamp-Xpinc\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.AssemblyInfo.cs
-C:\Users\c-edu\Desktop\Bootcamp-Xpinc\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.csproj.CoreCompileInputs.cache
-C:\Users\c-edu\Desktop\Bootcamp-Xpinc\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.sourcelink.json
-C:\Users\c-edu\Desktop\Bootcamp-Xpinc\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.dll
-C:\Users\c-edu\Desktop\Bootcamp-Xpinc\exemploFundamentos\obj\Debug\net8.0\refint\exemploFundamentos.dll
-C:\Users\c-edu\Desktop\Bootcamp-Xpinc\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.pdb
-C:\Users\c-edu\Desktop\Bootcamp-Xpinc\exemploFundamentos\obj\Debug\net8.0\exemploFundamentos.genruntimeconfig.cache
-C:\Users\c-edu\Desktop\Bootcamp-Xpinc\exemploFundamentos\obj\Debug\net8.0\ref\exemploFundamentos.dll
