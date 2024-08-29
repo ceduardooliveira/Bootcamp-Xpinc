@@ -7,8 +7,11 @@ arrayInteiros[1] = 64;
 arrayInteiros[2] = 50;
 arrayInteiros[3] = 1;
 
-Array.Resize(ref arrayInteiros, arrayInteiros.Length * 2);
 
+int[] arrayInteiroDobrado = new int [arrayInteiros.Length * 2];
+Array.Copy(arrayInteiros, arrayInteiroDobrado, arrayInteiros.Length);
+
+//Array.Resize(ref arrayInteiros, arrayInteiros.Length * 2);
 
 Console.WriteLine("Percorrendo o Array com o FOR");
 for(int contador = 0; contador < arrayInteiros.Length; contador++)
