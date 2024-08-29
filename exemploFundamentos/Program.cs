@@ -1,9 +1,62 @@
 ﻿using exemploFundamentos.Common.Models;
 
-Pessoa pessoa1 = new Pessoa();
-pessoa1.Nome = "Buta";
-pessoa1.Idade = 20;
-pessoa1.Apresentar();
+List<string> listaString = new List<string>(); 
+
+listaString.Add("São Paulo");
+listaString.Add("Bahia");
+listaString.Add("Minas Gerais");
+listaString.Add("RJ");
+
+
+Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}");
+listaString.Add("SC");
+
+
+Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}");
+listaString.Remove("Minas Gerais");
+
+Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}");
+
+
+
+// Console.WriteLine("Percorrendo o Array com o FOR");
+// for(int contador = 0; contador < listaString.Count; contador++)
+// {
+//     Console.WriteLine($"Posiçao Nº {contador} - {listaString[contador]}");
+// }
+
+// Console.WriteLine("Percorrendo o Array com o FOREACH");
+// int contadorForeach = 0;
+// foreach(string item in listaString)
+// {
+//         Console.WriteLine($"Posiçao Nº {contadorForeach} - {listaString[contadorForeach]}");
+//         contadorForeach++;
+// }
+
+
+
+
+
+
+
+// int[] arrayInteiros = new int[4];
+
+// arrayInteiros[0] = 72;
+// arrayInteiros[1] = 64;
+// arrayInteiros[2] = 50;
+// arrayInteiros[3] = 1;
+
+
+// int[] arrayInteiroDobrado = new int [arrayInteiros.Length * 2];
+// Array.Copy(arrayInteiros, arrayInteiroDobrado, arrayInteiros.Length);
+
+// //Array.Resize(ref arrayInteiros, arrayInteiros.Length * 2);
+
+// Console.WriteLine("Percorrendo o Array com o FOR");
+// for(int contador = 0; contador < arrayInteiros.Length; contador++)
+// {
+//     Console.WriteLine($"Posição Nº {contador} - {arrayInteiros[contador]}");
+// }
 
 
 
@@ -12,7 +65,26 @@ pessoa1.Apresentar();
 
 
 
+// Console.WriteLine("Percorrendo o Array com o FOREACH");
 
+// int contadorForeach = 0;
+// foreach(int valor in arrayInteiros)
+// {
+//     Console.WriteLine($"Posição Nº {contadorForeach} - {valor}");
+//     contadorForeach++;
+// }
+
+
+
+
+
+
+
+
+// Pessoa pessoa1 = new Pessoa();
+// pessoa1.Nome = "Buta";
+// pessoa1.Idade = 20;
+// pessoa1.Apresentar();
 
 
 
